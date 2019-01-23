@@ -1,6 +1,6 @@
 # Paper
 Details of paper coming soon.
-![Image Capturing System](/images/Fig2_github.png  {width=300px height=500px})
+![Image Capturing System](/images/Fig2_github.png  {width="300" height="500"})
 
 - **List of 40 Wheat Labels:** 
 Ahmetaga,	Altay2000,	Atay85,	Aytin,	Bayraktar2000,	Bezostaja,	Cesit1252,	Cetiner,
