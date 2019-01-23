@@ -1,5 +1,6 @@
 # Paper
 Details of paper coming soon.
+<a href="mage Capturing System"><img src="/images/Fig2_github.png" align="left" height="300" width="500" ></a>
 ![Image Capturing System](/images/Fig2_github.png  width="300" height="500")
 
 - **List of 40 Wheat Labels:** 
