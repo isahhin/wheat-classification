@@ -1,6 +1,12 @@
 # Paper
 Coming soon.
 
+Ahmetaga	Altay2000	Atay85	Aytin	Bayraktar2000	Bezostaja	Cesit1252	Cetiner
+Dagdas	Ekiz	Energo	Es26	Esperia	Flamura85	Gelibolu	Gerek79
+Harmankaya	Izgi	KateA1	Kirac	Kirgiz	Kunduru	Mesut	Michelangelo
+Midas	Mufitbey	Nacibey	Pehlivan	Porsuk	Reis	Renan	Selimiye
+Sonmez	Soyer	Sultan95	Suzen	Tosunbey	Yelken	Yildiz	Yunus
+
 
 ## Visible-Near Infrared (VNIR) Wheat Dataset
 - The dataset is constructed with a VNIR camera that is able to capture the spectral information between wavelength range of 400 nm to 1100 nm.
