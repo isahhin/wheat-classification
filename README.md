@@ -1,7 +1,6 @@
 # Paper
 Details of paper coming soon.
 <a href="mage Capturing System"><img src="/images/Fig2_github.png" align="left" height="300" width="500" ></a>
-![Image Capturing System](/images/Fig2_github.png  width="300" height="500")
 
 - **List of 40 Wheat Labels:** 
 Ahmetaga,	Altay2000,	Atay85,	Aytin,	Bayraktar2000,	Bezostaja,	Cesit1252,	Cetiner,
