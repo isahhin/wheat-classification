@@ -1,7 +1,7 @@
 # Paper
 Coming soon.
 
-List of 40 Wheat Labels: 
+- **List of 40 Wheat Labels:** 
 Ahmetaga,	Altay2000,	Atay85,	Aytin,	Bayraktar2000,	Bezostaja,	Cesit1252,	Cetiner,
 Dagdas,	Ekiz,	Energo,	Es26,	Esperia,	Flamura85,	Gelibolu,	Gerek79,
 Harmankaya,	Izgi,	KateA1,	Kirac,	Kirgiz,	Kunduru,	Mesut,	Michelangelo,
