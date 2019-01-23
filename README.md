@@ -1,5 +1,5 @@
 # Paper
-Coming soon.
+Details of paper coming soon.
 ![Image Capturing System](/images/Fig2_github.png)
 
 - **List of 40 Wheat Labels:** 
