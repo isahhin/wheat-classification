@@ -1,5 +1,11 @@
-# Paper
-Details of paper coming soon.
+## Paper
+Identification of wheat kernels by fusion of RGB, SWIR, VNIR samples over feature and image domain
+Kemal Özkan,  Şahin Işık,  Büşra Topsakal Yavuz
+https://doi.org/10.1002/jsfa.9732
+
+Cite: Özkan, K., Işık, Ş. and Topsakal Yavuz, B., 2019. Identification of wheat kernels by fusion of RGB, SWIR, VNIR samples over feature and image domain. Journal of the Science of Food and Agriculture.
+
+## Image Capturing System
 <a href="mage Capturing System"><img src="/images/Fig2_github.png" align="left" height="300" width="500" ></a>
 
 - **List of 40 Wheat Labels:** 
@@ -45,7 +51,7 @@ Free only for research and educational purposes, for commercial use, please cont
 
 ## Cite
 
-Coming Soon.
+Özkan, K., Işık, Ş. and Topsakal Yavuz, B., 2019. Identification of wheat kernels by fusion of RGB, SWIR, VNIR samples over feature and image domain. Journal of the Science of Food and Agriculture.
 
 
 ## Contact
