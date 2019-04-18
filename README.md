@@ -1,7 +1,8 @@
 ## Paper
-Title: Identification of wheat kernels by fusion of RGB, SWIR, VNIR samples over feature and image domain.
+Title: [Identification of wheat kernels by fusion of RGB, SWIR, VNIR samples over feature and image domain](https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.9732)
 Authors: Kemal Özkan,  Şahin Işık,  Büşra Topsakal Yavuz
 DOI: https://doi.org/10.1002/jsfa.9732
+
 
 Cite: Özkan, K., Işık, Ş. and Topsakal Yavuz, B., 2019. Identification of wheat kernels by fusion of RGB, SWIR, VNIR samples over feature and image domain. Journal of the Science of Food and Agriculture.
 
