@@ -23,21 +23,21 @@ Sonmez,	Soyer,	Sultan95,	Suzen,	Tosunbey,	Yelken,	Yildiz,	Yunus.
 
 ## Visible-Near Infrared (VNIR) Wheat Dataset
 - The dataset is constructed with a VNIR camera that is able to capture the spectral information between wavelength range of 400 nm to 1100 nm.
-- There are 40 wheat samples.
+- There are 40 wheat classes and 200 samples per each class.
 - A captured image is in the form of 640 x 512 pixels. 
 - Then, each image is divided into four quadrants for data augmentation.
 - Two 100-W halogen light sources are used by positioning at the left side of SWIR and right side of RGB to ensure homogeneous light distribution.
 - [Download VNIR Dataset](https://mega.nz/#!WfpnkY6C!yTNOjeySlQhaAT3d6vO4w7GMFbMbH4_OsKDDE2Zk5Xk)
 ## Short Wave Infrared (SWIR) Wheat Dataset
 - The dataset is constructed with a SWIR camera that is able to capture the spectral information between wavelength range of 900 nm to 1700 nm.
-- There are 40 wheat samples.
+- There are 40 wheat classes and 200 samples per each class.
 - A captured image is  in the form of 640 x 512 pixels. 
 - Then, each image is divided into four quadrants for data augmentation.
 - Two 100-W halogen light sources are used by positioning at the left side of SWIR and right side of RGB to ensure homogeneous light distribution.
 - [Download SWIR Dataset](https://mega.nz/#!iWgHjCCA!Bwj7Cb7vzDU-Z354WjSqjX5rZqujtcPZ9jlTf9_vs68)
 ## RGB Wheat Dataset
 - The RGB images are captured with a specific camera.
-- There are 40 wheat samples.
+- There are 40 wheat classes and 200 samples per each class.
 - A captured image is in the form of 1280 x 1024 pixels.
 - Then, each image is divided into four quadrants for data augmentation.
 - Two 100-W halogen light sources are used by positioning at the left side of SWIR and right side of RGB to ensure homogeneous light distribution.
