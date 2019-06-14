@@ -57,4 +57,4 @@ Free only for research and educational purposes, for commercial use, please cont
 
 ## Contact
 
-* **Şahin Işık** - *Corresponding Author* - [Şahin Işık](http://ceng.ogu.edu.tr/Sayfa/Index/32/bolum-personeli) - *Email* - isahhin@gmail.com
+* **Dr. Şahin Işık** - *Corresponding Author* - [Şahin Işık](http://ceng.ogu.edu.tr/Sayfa/Index/32/bolum-personeli) - *Email* - isahhin@gmail.com
